@@ -1,0 +1,29 @@
+{
+  "name": "smsgateway",
+  "version": "0.1.0",
+  "description": "Node.js SDK of https://smsgateway.me . Turn your android phone to a programmatical sms gateway.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TooBug/smsGateway"
+  },
+  "keywords": [
+    "sms",
+    "android",
+    "gateway",
+    "sdk"
+  ],
+  "author": "TooBug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TooBug/smsGateway/issues"
+  },
+  "homepage": "https://github.com/TooBug/smsGateway",
+  "dependencies": {
+    "q": "^1.1.2",
+    "restler": "^3.2.2"
+  }
+}
