@@ -1,6 +1,6 @@
 {
   "name": "smsgateway",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node.js SDK of https://smsgateway.me . Turn your android phone to a programmatical sms gateway.",
   "main": "index.js",
   "scripts": {
