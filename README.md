@@ -30,7 +30,7 @@ gateway.getDevices().then(function(data){
 
 ## Change Log
 
-### v0.1.2(2014-12-24)
+### v0.1.2 (2014-12-24)
 
 - Added `.sendMessageToNumber()` `.sendMessageToManyNumbers()` `.sendMessageToManyContacts()`.
 - Added docs.
