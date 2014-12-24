@@ -1,5 +1,8 @@
 # SmsGateway
 
+[![npm](http://img.shields.io/npm/v/gulp-toor.svg)](https://www.npmjs.com/package/gulp-toor)
+[![npm](http://img.shields.io/npm/l/gulp-toor.svg)](https://www.npmjs.com/package/gulp-toor)
+
 [SmsGateway.me](https://smsgateway.me) Node.js wrapper.
 
 The service of SmsGateway.me can turn your android phone to a sms tunnel. You can programmatically send or receive messages with there RESTful API.
