@@ -6,7 +6,7 @@ The service of SmsGateway.me can turn your android phone to a sms tunnel. You ca
 
 ## Docs
 
-<https://www.toobug.net/smsGateway/docs>
+<http://www.toobug.net/smsGateway/docs>
 
 ## Examples
 
