@@ -1,7 +1,7 @@
 # SmsGateway
 
-[![npm](http://img.shields.io/npm/v/smsGateway.svg)](https://www.npmjs.com/package/smsGateway)
-[![npm](http://img.shields.io/npm/l/smsGateway.svg)](https://www.npmjs.com/package/smsGateway)
+[![npm](http://img.shields.io/npm/v/smsgateway.svg)](https://www.npmjs.com/package/smsgateway)
+[![npm](http://img.shields.io/npm/l/smsgateway.svg)](https://www.npmjs.com/package/smsgateway)
 
 [SmsGateway.me](https://smsgateway.me) Node.js wrapper.
 
