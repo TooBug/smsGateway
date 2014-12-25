@@ -1,7 +1,7 @@
 # SmsGateway
 
-[![npm](http://img.shields.io/npm/v/gulp-toor.svg)](https://www.npmjs.com/package/gulp-toor)
-[![npm](http://img.shields.io/npm/l/gulp-toor.svg)](https://www.npmjs.com/package/gulp-toor)
+[![npm](http://img.shields.io/npm/v/smsGateway.svg)](https://www.npmjs.com/package/smsGateway)
+[![npm](http://img.shields.io/npm/l/smsGateway.svg)](https://www.npmjs.com/package/smsGateway)
 
 [SmsGateway.me](https://smsgateway.me) Node.js wrapper.
 
