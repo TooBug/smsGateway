@@ -5,11 +5,11 @@
 
 [SmsGateway.me](https://smsgateway.me) Node.js wrapper.
 
-The service of SmsGateway.me can turn your android phone to a sms tunnel. You can programmatically send or receive messages with there RESTful API.
+The service of SmsGateway.me can turn your android phone to a sms tunnel. You can programmatically send or receive messages with their RESTful API.
 
 ## Docs
 
-<http://www.toobug.net/smsGateway/docs>
+<https://toobug.github.io/smsGateway/docs>
 
 ## Examples
 
